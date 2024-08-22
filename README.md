@@ -22,7 +22,7 @@ The ScheduleMaster Chatbot is a Streamlit-based application that allows users to
 1. **Run the Streamlit application**:
 
    ```bash
-   streamlit run Challenge.py
+   streamlit run main.py
    ```
 2. **Interact with the chatbot**:
 
